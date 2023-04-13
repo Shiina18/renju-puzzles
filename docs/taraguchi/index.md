@@ -1,0 +1,7 @@
+# Taraguchi
+
+```{toctree}
+:glob:
+
+*
+```
