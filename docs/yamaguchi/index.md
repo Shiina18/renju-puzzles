@@ -1,4 +1,4 @@
-# Yamaguchi
+# Yamaguchi / 山口
 
 ```{toctree}
 :glob:
