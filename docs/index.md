@@ -29,7 +29,9 @@ Puzzles are classified by opening rules, and by tournaments.
 ```{toctree}
 :maxdepth: 1
 
+rif/index.md
 yamaguchi/index.md
+soosyrv/index.md
 taraguchi/index.md
 ```
 
