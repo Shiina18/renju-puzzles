@@ -36,7 +36,7 @@ H8I9J10J9G9L9K9L8I7J6J8L10L7K7M9I5H4H6J4
 
 [![](https://img.shields.io/badge/Renju-Net-blue)](https://www.renju.net/tournament/2465/game/102184/) [![](https://img.shields.io/badge/Gomocalc-AI-yellow)](https://gomocalc.com/#/) [![](https://img.shields.io/badge/RenjuNote-Solver-lightgrey)](https://renju-note.com/#g:H8I9J10J9G9L9K9L8I7J6J8L10L7K7M9I5H4H6J4,c:19)
 
-A simple VCT for white. If you investigate the source game, you will know black 9 leads to sure loss.
+A simple VCT for white. If you investigate the source game, you will know it is probably the black 9 that leads to the loss.
 
 ## Sitemap
 
