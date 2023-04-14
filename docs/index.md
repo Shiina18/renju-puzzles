@@ -40,7 +40,9 @@ A simple VCT for white. If you investigate the source game, you will know black 
 
 ## Sitemap
 
-Puzzles are classified by opening rules, and by tournaments.
+Puzzles are classified by opening rules and tournaments. Click the following links to get started.
+
+习题根据开局规则和比赛分类. 点击下面链接进入习题.
 
 ```{toctree}
 :maxdepth: 1
