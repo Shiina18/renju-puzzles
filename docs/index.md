@@ -10,7 +10,7 @@ This is a minimum viable product. Feedback is welcome.
 
 ## Guide
 
-Find VCTs with the last move indicated, using Renju rules with black having forbidden moves (黑有禁手).
+Find VCTs, using Renju rules with black having forbidden moves (黑有禁手).
 
 For answers, use interactive board web apps with AI or VCT solver linked under each puzzle. The source game link is also provided. 
 
