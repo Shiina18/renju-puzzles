@@ -17,6 +17,8 @@ copyright = '2023, C7'
 extensions = [
     'myst_parser',
     'sphinx_copybutton',
+    'sphinx_togglebutton',
+    # 'sphinx_tippy',
 ]
 
 templates_path = ['_templates']
@@ -45,6 +47,7 @@ myst_enable_extensions = [
 # html_theme = 'sphinx_rtd_theme'
 html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
+# html_css_files = ['tippy.css']
 html_search_language = 'zh'
 html_theme_options = {
     'use_download_button': False,
