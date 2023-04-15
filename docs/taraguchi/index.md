@@ -1,4 +1,4 @@
-# Taraguchi / 塔拉山口
+# Taraguchi / 塔拉山口 / 五珠交替打ち
 
 ```{toctree}
 :glob:

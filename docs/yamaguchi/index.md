@@ -1,4 +1,4 @@
-# Yamaguchi / 山口
+# Yamaguchi / 山口 / 題数打ち
 
 ```{toctree}
 :glob:
